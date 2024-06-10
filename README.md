@@ -12,6 +12,7 @@ The inspiration for this idea came from a popular service called Playwright.dev 
 
 ## Image Examples
 Here are some image examples of OCR and model detection used by my program.
+Yolov8 model detection: ![alt text](https://imgur.com/Yjuoldj)
 
 ## Lessons Learned
 - While training models can be tedious, using pre-built, well-designed models like YOLOv8 makes them very useful and powerful.
