@@ -1,0 +1,5 @@
+path: C:\Users\User\Documents\Python_Scripts\wfmapi\rivenchecker\RivenOCR\customlinks
+train: train
+val: val
+nc: 1
+names: ['link']
