@@ -4,9 +4,9 @@ I have written a notebook **'Imaging_Modelling_Project_Notebook.ipynb'** that pr
 I chose a unique project that interests me, aiming to use Python to control the computer and extract data from a video game's 'trade chat'.
 
 ## Project Aim
-The primary objective of this project was to use PyAutoGUI to control the keyboard and mouse, enabling the program to:
+The primary objective of this project was to use PyAutoGUI to control the keyboard and mouse, while using OCR and modelling methods enabling the program to:
 1. Select links using detection techniques
-2. Gather data based on the links' locations and contents
+2. Gather data based on the links' locations,appearence and contents
 3. Enter the collected data into a Pandas DataFrame for further analysis
 
 Additionally, the program is designed to flag and notify the user about important data points.
